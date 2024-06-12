@@ -289,6 +289,6 @@ int main(int argc, char* argv[])
 			}
 			std::cout << "Execution Time: " << duration.count() << " seconds\n";
 
-	return 0;      
+	return 0;         
 }
 
