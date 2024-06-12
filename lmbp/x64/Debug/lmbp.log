@@ -1,0 +1,15 @@
+﻿  RNN.cpp
+E:\NSF_DrQingge\original\rnn_for_grid_connected_controller-main\main\lmbp\lmbp\RNN.h(134,5): warning C4114: same type qualifier used more than once
+E:\NSF_DrQingge\original\rnn_for_grid_connected_controller-main\main\lmbp\lmbp\RNN.cpp(45,11): warning C4114: same type qualifier used more than once
+E:\NSF_DrQingge\original\rnn_for_grid_connected_controller-main\main\lmbp\lmbp\RNN.cpp(74,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\NSF_DrQingge\original\rnn_for_grid_connected_controller-main\main\lmbp\lmbp\RNN.cpp(106,62): warning C4244: '=': conversion from 'arma::uword' to 'int', possible loss of data
+E:\NSF_DrQingge\original\rnn_for_grid_connected_controller-main\main\lmbp\lmbp\RNN.cpp(199,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\NSF_DrQingge\original\rnn_for_grid_connected_controller-main\main\lmbp\lmbp\RNN.cpp(200,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\NSF_DrQingge\original\rnn_for_grid_connected_controller-main\main\lmbp\lmbp\RNN.cpp(200,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\NSF_DrQingge\original\rnn_for_grid_connected_controller-main\main\lmbp\lmbp\RNN.cpp(1187,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\NSF_DrQingge\original\rnn_for_grid_connected_controller-main\main\lmbp\lmbp\RNN.cpp(1355,81): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+E:\NSF_DrQingge\original\rnn_for_grid_connected_controller-main\main\lmbp\lmbp\RNN.cpp(1454,42): warning C4244: '=': conversion from 'arma::uword' to 'int', possible loss of data
+  lmbp.cpp
+E:\NSF_DrQingge\original\rnn_for_grid_connected_controller-main\main\lmbp\lmbp\RNN.h(134,5): warning C4114: same type qualifier used more than once
+  Generating Code...
+  lmbp.vcxproj -> E:\NSF_DrQingge\original\rnn_for_grid_connected_controller-main\main\lmbp\x64\Debug\lmbp.exe
